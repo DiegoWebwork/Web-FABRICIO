@@ -7,4 +7,10 @@
 
 # Introdução:
 
-O problema apresentado 
+Pesquisar sobre a DOM
+Pesquisar sobre os addEventListener
+Foco principal em como funciona a manipulação da DOM pelo document
+
+Desenvolver um código usando js mostrando como funcionam estes conceitos
+
+Código deverá estar no github, não aceito em outro formato
